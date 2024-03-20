@@ -1,3 +1,12 @@
+---
+title: Personal Wrods DB App
+author: Chunyou Peng
+date: 2024-03-01
+description: word app for advanced English learners
+tags: ["tech"]
+type: "post"
+---
+
 # Personal Wrods DB App
 
 ## 需求
@@ -24,3 +33,4 @@ GetMeaning(word){return word + "meaning is";}, 目前就一个定死的函数.�
 
 内容有
 单词 | 查询次数 | 单词意思
+
