@@ -1,12 +1,3 @@
----
-title: "确定优先级"
-date: 2023-03-01
-description: "A blog post for life"
-image: "/path/to/image.png"
-type: "post"
-tags: ["life"]
----
-
 # 优先级
 
 人是由priority驱动的。健身好不好？好。早睡好不好？好。但是为什么不去做？因为这些事在你心中的优先级还不够高。(比如叫一个人做事,他没有做.给一个人发消息,他没有回,原因只有一个, 就是你在他心中的优先级不够高.)

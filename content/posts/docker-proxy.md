@@ -1,9 +1,9 @@
 ---
-title: Docker Proxy Setting
-date: 2023-03-18
+title: "Docker Proxy Settings"
 author: Chunyou Peng
+date: 2023-03-18
+description: "Help with docker proxy"
 tags: ["tech"]
-description: "docker settings"
 type: "post"
 ---
 
