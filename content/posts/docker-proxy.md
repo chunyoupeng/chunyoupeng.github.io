@@ -1,3 +1,12 @@
+---
+title: Docker Proxy Setting
+date: 2023-03-18
+author: Chunyou Peng
+tags: ["tech"]
+description: "docker settings"
+type: "post"
+---
+
 # Docker Proxy
 
 ## Docker build
