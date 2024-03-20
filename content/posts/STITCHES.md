@@ -1,3 +1,12 @@
+---
+title: System of systems Technology Integration Tool Chain for Heterogeneous Electronic System
+author: Chunyou Peng
+date: 2024-03-01
+description: 美国国防部系统初探
+tags: ["tech"]
+type: "post"
+---
+
 # 背景
 
 美国国防部(DoD)在过去有大量的不同数据标准、协议的系统。STITCHES就是为了实现系统在不需要共享公共标准的情况下实现实现互操作的一个系统.而子系统可以根据自已的需求独立开发而不受影响.
@@ -29,3 +38,4 @@ Transforms Expressed in a Domain Specific Language Built for this Purpose
 ![](/home/dell/Pictures/Screenshots/Screenshot%20from%202024-03-05%2017-10-04.png)
 
 把上面的配置文件转换成对应的代码.
+

@@ -1,3 +1,12 @@
+---
+title: My Personal TODO App
+author: Chunyou Peng
+date: 2024-03-02
+description: TODO App 构建思路
+tags: ["tech"]
+type: "post"
+---
+
 # TODO-APP
 
 ## 需求
