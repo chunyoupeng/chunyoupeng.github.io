@@ -1,3 +1,12 @@
+---
+title: Few-Shot Prompting Engeering
+author: Chunyou Peng
+date: 2024-03-03
+description: My reivew for few-shot and chain-of-thought prompting
+tags: ["papers"]
+type: "post"
+---
+
 # Few-Shot LLM
 
 ## Summary
