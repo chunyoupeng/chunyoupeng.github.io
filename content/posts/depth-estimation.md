@@ -14,7 +14,7 @@ type: "post"
 
 ## 研究方法
 
-![Alt Text](./img/process.png ) 
+![Alt Text](/process.png ) 
 
 (b) We first start with feeding the image in low- and high-resolution to the network, here shown results with MiDaS [34], and merge them to get a base estimate with a consistent structure with good boundary localization. (c) We then determine different patches in the image. We show a subset of selected patches with their depth estimates. (d) We merge the patch estimates onto our base estimate from (b) to get our final high-resolution result.
 
@@ -34,7 +34,7 @@ type: "post"
 
 The quantitative results in Table 1 show that for the majority of the metrics, our full pipeline improves the numerical performance considerably and our double-estimation method already provides a good improvement at a small computational overhead.
 
-![Result](./img/model-results.png ) 
+![Result](/model-results.png ) 
 
 ## 局限性
 
