@@ -2,26 +2,61 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/tags/blog/</loc>
+    <loc>http://example.org/</loc>
+    <lastmod>2024-03-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://example.org/posts/writing-papers/</loc>
+    <lastmod>2024-03-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://example.org/posts/depth-estimation/</loc>
+    <lastmod>2024-03-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://example.org/tags/papers/</loc>
+    <lastmod>2024-03-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://example.org/posts/</loc>
+    <lastmod>2024-03-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://example.org/tags/</loc>
+    <lastmod>2024-03-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://example.org/posts/fewshot-prompting/</loc>
+    <lastmod>2024-03-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://example.org/posts/todo-app/</loc>
+    <lastmod>2024-03-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://example.org/tags/tech/</loc>
+    <lastmod>2024-03-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://example.org/tags/life/</loc>
+    <lastmod>2024-03-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://example.org/posts/words-db/</loc>
+    <lastmod>2024-03-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://example.org/posts/stitches/</loc>
+    <lastmod>2024-03-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://example.org/posts/priority/</loc>
+    <lastmod>2024-03-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://example.org/posts/docker-proxy/</loc>
+    <lastmod>2023-03-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://example.org/posts/second-post/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/</loc>
+    <loc>http://example.org/tags/blog/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/first-post/</loc>
+    <loc>http://example.org/posts/first-post/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/second-post/</loc>
-    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
+    <loc>http://example.org/index-about/</loc>
   </url><url>
-    <loc>http://localhost:1313/posts/</loc>
-    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
+    <loc>http://example.org/posts/%E9%95%BF%E5%87%BA%E6%B5%93%E5%AF%86%E7%9A%84%E5%A5%BD%E5%A4%B4%E5%8F%91/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
-    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/index-about/</loc>
-  </url><url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>http://example.org/categories/</loc>
   </url>
 </urlset>

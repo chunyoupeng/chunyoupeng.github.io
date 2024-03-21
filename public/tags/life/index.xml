@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Life on Chunyou Peng Blog</title>
+    <link>http://example.org/tags/life/</link>
+    <description>Recent content in Life on Chunyou Peng Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 01 Mar 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://example.org/tags/life/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>优先级决定决策</title>
+      <link>http://example.org/posts/priority/</link>
+      <pubDate>Fri, 01 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>http://example.org/posts/priority/</guid>
+      <description>优先级 人是由priority驱动的。健身好不好？好。早睡好不好？好。但是为什么不去做？因为这些事在你心中的优先级还不够高。(比如叫一个人做事,他没有做.给一个人发消息,他没有回,原因只有一个, 就是你在他心中的优先级不够高.)&#xA;对于我而言，目前最高的优先级应该是健康。首先是身体的健康，心理的健康，再到心灵的健康。&#xA;我更关注的身体的健康包含哪些？&#xA;皮肤的健康(不要有痘) 头发的健康(不要掉发,要保持浓密的发量) 内脏的健康(心脏要保持正常跳动,肝,肾都要强壮) 眼睛的健康(不要在光线暗的地方看手机,特别是侧躺着看) 牙齿的健康(不要吃过冷,过热的东西,还有糖.每天必须保持牙齿的清洁) 听力的健康(能不戴耳机就不戴耳机) 腰腹的健康(要有力量) 生命就应该是最重要的, 健康就应该是最重要的. 不应该有任何的事情优先级大于这两个. 如果有一个赚钱升职的机会摆在面前, 但是代价是健康, 那就直接放弃.</description>
+    </item>
+  </channel>
+</rss>

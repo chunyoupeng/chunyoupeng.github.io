@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Papers on Chunyou Peng Blog</title>
+    <link>http://example.org/tags/papers/</link>
+    <description>Recent content in Papers on Chunyou Peng Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 20 Mar 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://example.org/tags/papers/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How to Write a Paper?</title>
+      <link>http://example.org/posts/writing-papers/</link>
+      <pubDate>Wed, 20 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>http://example.org/posts/writing-papers/</guid>
+      <description>How to Get Started? First, find the nearest paper, then its neighbors. Give them topics to write your liturature review. Find what they have done, and what they didn&amp;rsquo;t.&#xA;How to read a paper Outlining a Paper Your outline should recompress the paper back into an outline format that explains the paper&amp;rsquo;s argument. We suggest the following structure of one paragraph per bullet, with an example outline following the description:</description>
+    </item>
+    <item>
+      <title>Notes of Boosting Monocular Depth Estimation Models to High-Resolution via Content-Adaptive Multi-Resolution Merging</title>
+      <link>http://example.org/posts/depth-estimation/</link>
+      <pubDate>Wed, 20 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>http://example.org/posts/depth-estimation/</guid>
+      <description>研究内容 单个相机拍出来的照片是很难估计它的深度的.目前主要流行用神经网络解决这个问题.但是要得到高清晰度和一个好的场景结构是很难的.目前最好的方法是全卷积架构.但受限于GPU,数据集,CNN接受域的大小.&#xA;他们观察到，随着图片的清析度越高，模型的结构越差，但是细节表现更好。他们的方法是采用一个预训练单深度估计模型实现高分辨率和高精度边缘检测.采用双估计框架合并两个图片可以得到较好的效果.第二个是从图象里面选出块放到模型里面然后再合并.&#xA;研究方法 (b) We first start with feeding the image in low- and high-resolution to the network, here shown results with MiDaS [34], and merge them to get a base estimate with a consistent structure with good boundary localization. (c) We then determine different patches in the image. We show a subset of selected patches with their depth estimates. (d) We merge the patch estimates onto our base estimate from (b) to get our final high-resolution result.</description>
+    </item>
+    <item>
+      <title>Few-Shot Prompting Engeering</title>
+      <link>http://example.org/posts/fewshot-prompting/</link>
+      <pubDate>Sun, 03 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>http://example.org/posts/fewshot-prompting/</guid>
+      <description>Few-Shot LLM Summary Summarize the papers in this section. You should not simply list the reviewed papers. A good practice is to discuss the connections between them, e.g., paper 1 proposes a xxx method, which solves xxx problems, but it cannot do xxx; while paper 2 improves paper 1’s theory/algorithm/approach/dataset, and it can solve xxx problems, and thus it can achieve xxx effect. But there are still some other limitations, e.</description>
+    </item>
+  </channel>
+</rss>

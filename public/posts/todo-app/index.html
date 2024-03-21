@@ -17,26 +17,26 @@
     
 
     
-    <title>Tags</title>
-    <meta name="description" content="">
-    <meta name="keywords" content=''>
+    <title>My Personal TODO App</title>
+    <meta name="description" content="TODO App 构建思路">
+    <meta name="keywords" content='tech'>
 
-    <meta property="og:url" content="http://example.org/tags/">
+    <meta property="og:url" content="http://example.org/posts/todo-app/">
     <meta property="og:type" content="website">
-    <meta property="og:title" content="Tags">
-    <meta property="og:description" content="">
+    <meta property="og:title" content="My Personal TODO App">
+    <meta property="og:description" content="TODO App 构建思路">
     <meta property="og:image" content="http://example.org/">
     <meta property="og:image:secure_url" content="http://example.org/">
 
     <meta name="twitter:card" content="summary_large_image">
-    <meta name="twitter:title" content="Tags">
-    <meta name="twitter:description" content="">
-    <meta property="twitter:domain" content="http://example.org/tags/">
-    <meta property="twitter:url" content="http://example.org/tags/">
+    <meta name="twitter:title" content="My Personal TODO App">
+    <meta name="twitter:description" content="TODO App 构建思路">
+    <meta property="twitter:domain" content="http://example.org/posts/todo-app/">
+    <meta property="twitter:url" content="http://example.org/posts/todo-app/">
     <meta name="twitter:image" content="http://example.org/">
 
     
-    <link rel="canonical" href="http://example.org/tags/" />
+    <link rel="canonical" href="http://example.org/posts/todo-app/" />
 
     
     <link rel="stylesheet" type="text/css" href="/css/normalize.min.css" media="print">
@@ -123,44 +123,51 @@
     </nav>
 </header>
 <main id="content">
-<div class="container tags-list">
+    <div class="post container">
+    <div class="post-header-section">
+        <h1>My Personal TODO App</h1>
+        <small role="doc-subtitle">TODO App 构建思路</small>
+        <p class="post-date">March 2, 2024
+        
+        </p>
 
-    <h1 class="list-title">Tags</h1>
-    
-    <ul class="post-tags">
+        <ul class="post-tags">
         
-        <li class="post-tag">
-            <a href="/tags/tech/">
-                <div class="tag-name">tech</div>
-                <div class="tag-posts-count">4</div>
-            </a>
-        </li>
+            <li class="post-tag"><a href="http://example.org/tags/tech">tech</a></li>
         
-        <li class="post-tag">
-            <a href="/tags/papers/">
-                <div class="tag-name">papers</div>
-                <div class="tag-posts-count">3</div>
-            </a>
-        </li>
-        
-        <li class="post-tag">
-            <a href="/tags/blog/">
-                <div class="tag-name">blog</div>
-                <div class="tag-posts-count">2</div>
-            </a>
-        </li>
-        
-        <li class="post-tag">
-            <a href="/tags/life/">
-                <div class="tag-name">life</div>
-                <div class="tag-posts-count">1</div>
-            </a>
-        </li>
-        
-    </ul>
-    
+        </ul>
+    </div>
 
+    <div class="post-content">
+        <h1 id="todo-app">TODO-APP</h1>
+<h2 id="需求">需求</h2>
+<h3 id="软件思路">软件思路</h3>
+<p>这个app用来管理用户的todo事项。</p>
+<p>用户可以添加，修改，删除事项。每个事项有一个优先级，1－5星。优先级最高的排在最前面。用户点击事项前面的已完成按扭之后，就会被移到已完成的一个箱子里面。用户可以选择点击这个箱子查看。</p>
+<h3 id="前端">前端</h3>
+<p>前端使用vite 创建react项目.使用ts.css使用tailwincss</p>
+<p>按扭有添加,删除,已完成,设定优先级(1-5).完成箱(用来查看已完成的事项)
+并且显示添加的日期</p>
+<h3 id="后端">后端</h3>
+<p>数据库使用postgresql</p>
+<p>内容有
+完成情况(已完成/未完成) | 事件 | 优先级 | 添加的日期</p>
+
+        
+    </div>
+
+    <div class="prev-next">
+        
+    </div>
+
+    
+    
+    
 </div>
+
+
+
+    
 
         </main><footer class="footer">
     
