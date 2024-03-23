@@ -98,3 +98,22 @@ Vectoring helps us find the good question, the next step is to answer the questi
 ### Test
 
 一定要选择最核心的部份进行测试。选择最小块，然后把其它关联性小的部份忽略掉。
+
+## Talk
+
+Two reasions to give talks
+
+1. 帮助其它人了解你做了什么
+> By “what you have learned”... The goal is not to tell the room what you did. Tell the room the most important things you think they should know, but probably do not, because they haven’t spent as much time as you on your specific research problem.
+
+2. 帮助你自己,获得feedback
+>清晰的演讲是非常重要的
+
+### 怎么讲?
+
+识别你的目标观众.你的目标就是让你的观众明白你讲的所有内容.如果他们不能明白,那你讲的有什么意义呢?因些最关健的是要从观众的角度想怎么计述更好?
+
+第2点,每一段都很重要(`every sentence matters`).要明白你想表达什么?你的观点是什么?
+
+如果不在点上,删掉.如果不能判断它是否能帮到观众,删掉.如果它不易被理解,删掉.
+

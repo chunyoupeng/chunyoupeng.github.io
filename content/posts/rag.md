@@ -1,0 +1,41 @@
+---
+title: Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks
+author: Chunyou Peng
+date: 2024-03-22
+description: Notes for the paper Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks
+tags: ["papers"]
+type: "post"
+---
+
+# Problem
+
+Pre-trained neural language models cannot expand their memory and may produce "hallucinations", which limits the capability of such models.
+
+# Assumptin in prior work
+
+Hybrid models that combines parametric memory with non-parametric momories solve some problems. However, these models have only explored open-domain extractive question answering. 
+
+Prior work enrich systems with non-parametric memory by training from scratch for specific tasks. In contrast, all their components are pre-trained.
+
+# Insight
+
+They endow pre-trained, parametric-memory generation models with a non-parametric memory through a general-purpose fine-tuning approach as retrieval-augmented generation(RAG).
+
+![rag](/img/rag.png ) 
+
+# Technical overview
+
+训练了Retriever model and Generator model.
+
+# Proof
+
+# Imapact
+
+They method make the pre-trained model more factual. 
+Their work opens up new research directions on how parametric and non-parametric memories interact and  how to combine them using a better approach. 
+
+# Thinking
+
+这篇文章让我知道统计学知识在机器学习里面有多重要
+
+Whats log-likelihood? whats marginalized? whats tochastic gradient descent ,etc.
