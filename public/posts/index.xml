@@ -6,8 +6,29 @@
     <description>Recent content in Posts on Chunyou Peng Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 20 Mar 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 23 Mar 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://example.org/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Multi-Concept Customization of Text-to-Image Diffusion</title>
+      <link>http://example.org/posts/customized-text-imge/</link>
+      <pubDate>Sat, 23 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>http://example.org/posts/customized-text-imge/</guid>
+      <description>Problem Users wish to synthesize specific concepts from their own personal lives.用户想要定制自己的主题。但是现有的模型很难产生未看到的背景。&#xA;Assumption in prior work Prior work improves compositional generation to extend beyond tuning for a single, individual concept and compose multiple conceots together, but they lead addtional chanllenges as mixing unseen concepts.&#xA;Insight 他们识别出了小部份的模型权重，通过稍调这些小部分的权重就足够更新模型适应新的图像概念。 augmentation 他们提出的方法可以分别训练然后合并。&#xA;Technical overview 该方法支持训练多个概念并在新颖的环境中将它们组合起来，同时生成现有概念的新变体。该方法优于几个基准和同时进行的工作，在定性和定量评估中表现出色，同时具有计算和内存效率。&#xA;Proof 结果比较 单概念微调结果比较&#xA;他们的模型可以生成背景和艺术风格。以第一行为例，生成一个水彩风格的在山上的乌龟。他们的模型能产生山的背景，而其它的比如DreamBooth和Textual Inversion则不行，效果较差。&#xA;多概念微调结果比较&#xA;在多概念的情况下，也就是把多个主题融合起来。从上图可以看到，他们的模型有更高的视觉相似度（两个或多个视觉对象在视觉特征上的相似度）。然而DreamBooth有时会忽略掉猫。&#xA;量化比较 上面的结果表明，不管是单概念还是多概念都要优于DreamBooth&#xA;本文提出了一种在新概念、类别、个人对象或艺术风格上微调大规模文本到图像扩散模型的方法，只使用少量图像示例。该方法在新环境中生成微调概念的新变体，保持与目标图像的视觉相似性。它还可以在同一场景中组合多个新概念，并在背景中生成山脉。该方法在每个组合设置的8个提示生成的400个图像上优于其他基准。人类偏好研究表明，所提出的方法在单一概念和多概念方面优于基准。该方法在难以组合的情况下显示出局限性，例如宠物狗和猫，以及组合三个或更多概念。&#xA;Impact 他们提出了种新方法用来微调大规模文生图的扩散模型，只需要几个图片就可以生成新的概念，主题和艺术风格。他们的优点如下：&#xA;高效计算 只需要小部份的权重就可以进行训练 </description>
+    </item>
+    <item>
+      <title>Large Language Models Struggle to Learn Long-Tail Knowledge</title>
+      <link>http://example.org/posts/long-tail/</link>
+      <pubDate>Fri, 22 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>http://example.org/posts/long-tail/</guid>
+      <description>Problem Assumption in prior work Insight Technical overview Proof Impact </description>
+    </item>
+    <item>
+      <title>Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks</title>
+      <link>http://example.org/posts/rag/</link>
+      <pubDate>Fri, 22 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>http://example.org/posts/rag/</guid>
+      <description>Problem Pre-trained neural language models cannot expand their memory and may produce &amp;ldquo;hallucinations&amp;rdquo;, which limits the capability of such models.&#xA;Assumptin in prior work Hybrid models that combines parametric memory with non-parametric momories solve some problems. However, these models have only explored open-domain extractive question answering.&#xA;Prior work enrich systems with non-parametric memory by training from scratch for specific tasks. In contrast, all their components are pre-trained.&#xA;Insight They endow pre-trained, parametric-memory generation models with a non-parametric memory through a general-purpose fine-tuning approach as retrieval-augmented generation(RAG).</description>
+    </item>
     <item>
       <title>How to Write a Paper?</title>
       <link>http://example.org/posts/writing-papers/</link>

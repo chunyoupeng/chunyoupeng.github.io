@@ -17,26 +17,26 @@
     
 
     
-    <title>Papers</title>
-    <meta name="description" content="">
-    <meta name="keywords" content=''>
+    <title>Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks</title>
+    <meta name="description" content="Notes for the paper Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks">
+    <meta name="keywords" content='papers'>
 
-    <meta property="og:url" content="http://example.org/tags/papers/">
+    <meta property="og:url" content="http://example.org/posts/rag/">
     <meta property="og:type" content="website">
-    <meta property="og:title" content="Papers">
-    <meta property="og:description" content="">
+    <meta property="og:title" content="Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks">
+    <meta property="og:description" content="Notes for the paper Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks">
     <meta property="og:image" content="http://example.org/">
     <meta property="og:image:secure_url" content="http://example.org/">
 
     <meta name="twitter:card" content="summary_large_image">
-    <meta name="twitter:title" content="Papers">
-    <meta name="twitter:description" content="">
-    <meta property="twitter:domain" content="http://example.org/tags/papers/">
-    <meta property="twitter:url" content="http://example.org/tags/papers/">
+    <meta name="twitter:title" content="Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks">
+    <meta name="twitter:description" content="Notes for the paper Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks">
+    <meta property="twitter:domain" content="http://example.org/posts/rag/">
+    <meta property="twitter:url" content="http://example.org/posts/rag/">
     <meta name="twitter:image" content="http://example.org/">
 
     
-    <link rel="canonical" href="http://example.org/tags/papers/" />
+    <link rel="canonical" href="http://example.org/posts/rag/" />
 
     
     <link rel="stylesheet" type="text/css" href="/css/normalize.min.css" media="print">
@@ -123,47 +123,55 @@
     </nav>
 </header>
 <main id="content">
-    <div class="container list-posts">
+    <div class="post container">
+    <div class="post-header-section">
+        <h1>Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks</h1>
+        <small role="doc-subtitle">Notes for the paper Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks</small>
+        <p class="post-date">March 22, 2024
+        
+        </p>
 
-    <h1 class="list-title">papers</h1>
+        <ul class="post-tags">
+        
+            <li class="post-tag"><a href="http://example.org/tags/papers">papers</a></li>
+        
+        </ul>
+    </div>
+
+    <div class="post-content">
+        <h1 id="problem">Problem</h1>
+<p>Pre-trained neural language models cannot expand their memory and may produce &ldquo;hallucinations&rdquo;, which limits the capability of such models.</p>
+<h1 id="assumptin-in-prior-work">Assumptin in prior work</h1>
+<p>Hybrid models that combines parametric memory with non-parametric momories solve some problems. However, these models have only explored open-domain extractive question answering.</p>
+<p>Prior work enrich systems with non-parametric memory by training from scratch for specific tasks. In contrast, all their components are pre-trained.</p>
+<h1 id="insight">Insight</h1>
+<p>They endow pre-trained, parametric-memory generation models with a non-parametric memory through a general-purpose fine-tuning approach as retrieval-augmented generation(RAG).</p>
+<p><img src="/img/rag.png" alt="rag"></p>
+<h1 id="technical-overview">Technical overview</h1>
+<p>训练了Retriever model and Generator model.</p>
+<h1 id="proof">Proof</h1>
+<h1 id="imapact">Imapact</h1>
+<p>They method make the pre-trained model more factual.
+Their work opens up new research directions on how parametric and non-parametric memories interact and  how to combine them using a better approach.</p>
+<h1 id="thinking">Thinking</h1>
+<p>这篇文章让我知道统计学知识在机器学习里面有多重要</p>
+<p>Whats log-likelihood? whats marginalized? whats tochastic gradient descent ,etc.</p>
+
+        
+    </div>
+
+    <div class="prev-next">
+        
+    </div>
 
     
-
-    <h2 class="posts-year">2024</h2><article class="post-title">
-    <a href="http://example.org/posts/customized-text-imge/" class="post-link">Multi-Concept Customization of Text-to-Image Diffusion</a>
-    <div class="flex-break"></div>
-    <span class="post-date">March 23, 2024</span>
-</article>
-<article class="post-title">
-    <a href="http://example.org/posts/rag/" class="post-link">Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks</a>
-    <div class="flex-break"></div>
-    <span class="post-date">March 22, 2024</span>
-</article>
-<article class="post-title">
-    <a href="http://example.org/posts/long-tail/" class="post-link">Large Language Models Struggle to Learn Long-Tail Knowledge</a>
-    <div class="flex-break"></div>
-    <span class="post-date">March 22, 2024</span>
-</article>
-<article class="post-title">
-    <a href="http://example.org/posts/depth-estimation/" class="post-link">Notes of Boosting Monocular Depth Estimation Models to High-Resolution via Content-Adaptive Multi-Resolution Merging</a>
-    <div class="flex-break"></div>
-    <span class="post-date">March 20, 2024</span>
-</article>
-<article class="post-title">
-    <a href="http://example.org/posts/writing-papers/" class="post-link">How to Write a Paper?</a>
-    <div class="flex-break"></div>
-    <span class="post-date">March 20, 2024</span>
-</article>
-<article class="post-title">
-    <a href="http://example.org/posts/fewshot-prompting/" class="post-link">Few-Shot Prompting Engeering</a>
-    <div class="flex-break"></div>
-    <span class="post-date">March 3, 2024</span>
-</article>
-
     
-
+    
 </div>
 
+
+
+    
 
         </main><footer class="footer">
     
