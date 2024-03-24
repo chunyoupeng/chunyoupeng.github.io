@@ -1,6 +1,6 @@
 # About me
 
-**Chunyou Peng**, born in Tongliang District, Chongqing. 
+**Chunyou Peng**, born in Chongqing, China. 
 
 **Bachelor's degree**: Beijing University of Technology and Business, majoring in Computer Science.
 
