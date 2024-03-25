@@ -6,8 +6,22 @@
     <description>Recent content in Papers on Chunyou Peng Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 24 Mar 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 25 Mar 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://example.org/tags/papers/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>DetectGPT Zero-Shot Machine-Generated Text Detection using Probability Curvature</title>
+      <link>http://example.org/posts/detectgpt/</link>
+      <pubDate>Mon, 25 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>http://example.org/posts/detectgpt/</guid>
+      <description>Problem 目前，使用ai生成文本已经非常常见了。但是目前并没有什么好的方法可以很好的检测ai生成的文本。&#xA;Assumption in prior work Prior work trains a second model to detect machine-gennerated text, but it may overfit the topic.&#xA;Insight They consider the zero-shot version of machine-generated text detection by evaluating the average per-token log probability of the generated text and thresholding.&#xA;Technical overview Proof Impact </description>
+    </item>
+    <item>
+      <title>Exploring Document-Level Literary Machine Translation with Parallel Paragraphs from World Literature</title>
+      <link>http://example.org/posts/document-level-mt/</link>
+      <pubDate>Mon, 25 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>http://example.org/posts/document-level-mt/</guid>
+      <description>Problem While the improvement of the machine translation(MT) recently, the ablitiy to automatically translate literary text is limited.&#xA;Assumption in prior work Insight They leverage large pretrained language models to improve literary MT and introduce their large-scale dataset PAR3.&#xA;Technical overview The PAR 3 Dataset: Parallel Paragraph-Level Paraphrases PAR 3 was curated in four stages: selec-tion of source texts, machine translation of source texts, paragraph alignment, and final filtering.&#xA;它至少有两种以上的人工翻译可以对照，并且有一个Google翻译本。人工翻译和Google翻译之间需要对齐。并且把短的句子删掉。</description>
+    </item>
     <item>
       <title>Paraphrasing evades detectors of AI-generated text, but retrieval is an effective defense</title>
       <link>http://example.org/posts/retrieval-detectors/</link>
