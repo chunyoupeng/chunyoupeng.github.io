@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Math on Chunyou Peng Blog</title>
+    <link>http://example.org/tags/math/</link>
+    <description>Recent content in Math on Chunyou Peng Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 06 Apr 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://example.org/tags/math/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My Master Theorem Understanding</title>
+      <link>http://example.org/posts/master-theorem/</link>
+      <pubDate>Sat, 06 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>http://example.org/posts/master-theorem/</guid>
+      <description>Book Screenshot My Quick Understanding 就是比较f(n)和$n^{\log{b^a}}$&#xA;相同,则是log f(n)的阶数要大一点,T(n)=O($n^{\log{b^a}}$) f(n)的阶数要小一点,要判断一个af(n/b) &amp;lt;= cf(n),c&amp;lt;1.如果满足,T(n)=O(f(n)) </description>
+    </item>
+  </channel>
+</rss>

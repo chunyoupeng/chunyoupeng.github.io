@@ -9,6 +9,7 @@ type: "post"
 
 # Problem
 
+
 # Assumption in prior work
 
 # Insight
