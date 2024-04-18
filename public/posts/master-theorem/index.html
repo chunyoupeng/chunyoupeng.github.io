@@ -140,14 +140,17 @@
 
     <div class="post-content">
         <h1 id="book-screenshot">Book Screenshot</h1>
-<p><img src="./img/master-theorem.png" alt="pic"></p>
+<p><img src="/img/master-theorem.png" alt="pic"></p>
 <h2 id="my-quick-understanding">My Quick Understanding</h2>
 <p>就是比较f(n)和$n^{\log{b^a}}$</p>
 <ol>
-<li>相同,则是log</li>
-<li>f(n)的阶数要大一点,T(n)=O($n^{\log{b^a}}$)</li>
-<li>f(n)的阶数要小一点,要判断一个af(n/b) &lt;= cf(n),c&lt;1.如果满足,T(n)=O(f(n))</li>
+<li>f(n)的阶数要小一点,T(n)=O($n^{\log{b^a}}$)</li>
+<li>相同,则是乘以一个log</li>
+<li>f(n)的阶数要大一点,要判断一个af(n/b) &lt;= cf(n),c&lt;1.如果满足,T(n)=O(f(n))</li>
 </ol>
+<blockquote>
+<p>其实就是以大的为主</p>
+</blockquote>
 
         
     </div>

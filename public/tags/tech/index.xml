@@ -4,10 +4,17 @@
     <title>Tech on Chunyou Peng Blog</title>
     <link>http://example.org/tags/tech/</link>
     <description>Recent content in Tech on Chunyou Peng Blog</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo 0.125.0</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 02 Mar 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 18 Apr 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://example.org/tags/tech/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Build Abstraction</title>
+      <link>http://example.org/posts/abstraction/</link>
+      <pubDate>Thu, 18 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>http://example.org/posts/abstraction/</guid>
+      <description>What is Abstraction? Abstraction is a process by which general rules and concepts are derived from the usage and classification of specific examples, literal (real or concrete) signifiers, first principles, or other methods.&#xA;Definition from Wikipedia&#xA;Abstraction in Mathematics I once dwelled on a problem repeatedly, a problem that had been considered many times before. I&amp;rsquo;ve come to realize that such rumination is unproductive. This revelation came when I acknowledged my struggle with the skill of abstraction.</description>
+    </item>
     <item>
       <title>My Personal TODO App</title>
       <link>http://example.org/posts/todo-app/</link>
