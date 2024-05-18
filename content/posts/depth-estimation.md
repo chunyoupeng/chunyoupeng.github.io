@@ -1,11 +1,3 @@
----
-title: Notes of Boosting Monocular Depth Estimation Models to High-Resolution via Content-Adaptive Multi-Resolution Merging
-author: Chunyou Peng
-date: 2024-03-20
-description: Review of the paper named Boosting Monocular Depth Estimation Models to High-Resolution via Content-Adaptive Multi-Resolution Merging
-tags: ["papers"]
-type: "post"
----
 ## 研究内容
 
 单个相机拍出来的照片是很难估计它的深度的.目前主要流行用神经网络解决这个问题.但是要得到高清晰度和一个好的场景结构是很难的.目前最好的方法是全卷积架构.但受限于GPU,数据集,CNN接受域的大小.

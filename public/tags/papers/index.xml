@@ -4,44 +4,16 @@
     <title>Papers on Chunyou Peng Blog</title>
     <link>http://example.org/tags/papers/</link>
     <description>Recent content in Papers on Chunyou Peng Blog</description>
-    <generator>Hugo 0.125.0</generator>
+    <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Mon, 25 Mar 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://example.org/tags/papers/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>DetectGPT Zero-Shot Machine-Generated Text Detection using Probability Curvature</title>
-      <link>http://example.org/posts/detectgpt/</link>
-      <pubDate>Mon, 25 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>http://example.org/posts/detectgpt/</guid>
-      <description>Problem 目前，使用ai生成文本已经非常常见了。但是目前并没有什么好的方法可以很好的检测ai生成的文本。&#xA;Assumption in prior work Prior work trains a second model to detect machine-gennerated text, but it may overfit the topic.&#xA;Insight They consider the zero-shot version of machine-generated text detection by evaluating the average per-token log probability of the generated text and thresholding.&#xA;Technical overview Proof Impact </description>
-    </item>
     <item>
       <title>Exploring Document-Level Literary Machine Translation with Parallel Paragraphs from World Literature</title>
       <link>http://example.org/posts/document-level-mt/</link>
       <pubDate>Mon, 25 Mar 2024 00:00:00 +0000</pubDate>
       <guid>http://example.org/posts/document-level-mt/</guid>
       <description>Problem While the improvement of the machine translation(MT) recently, the ablitiy to automatically translate literary text is limited.&#xA;Assumption in prior work Insight They leverage large pretrained language models to improve literary MT and introduce their large-scale dataset PAR3.&#xA;Technical overview The PAR 3 Dataset: Parallel Paragraph-Level Paraphrases PAR 3 was curated in four stages: selec-tion of source texts, machine translation of source texts, paragraph alignment, and final filtering.&#xA;它至少有两种以上的人工翻译可以对照，并且有一个Google翻译本。人工翻译和Google翻译之间需要对齐。并且把短的句子删掉。</description>
-    </item>
-    <item>
-      <title>Paraphrasing evades detectors of AI-generated text, but retrieval is an effective defense</title>
-      <link>http://example.org/posts/retrieval-detectors/</link>
-      <pubDate>Sun, 24 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>http://example.org/posts/retrieval-detectors/</guid>
-      <description>Problem Assumption in prior work Insight Technical overview Proof Impact </description>
-    </item>
-    <item>
-      <title>Multi-Concept Customization of Text-to-Image Diffusion</title>
-      <link>http://example.org/posts/customized-text-imge/</link>
-      <pubDate>Sat, 23 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>http://example.org/posts/customized-text-imge/</guid>
-      <description>Problem Users wish to synthesize specific concepts from their own personal lives.用户想要定制自己的主题。但是现有的模型很难产生未看到的背景。&#xA;Assumption in prior work Prior work improves compositional generation to extend beyond tuning for a single, individual concept and compose multiple conceots together, but they lead addtional chanllenges as mixing unseen concepts.&#xA;Insight 他们识别出了小部份的模型权重，通过稍调这些小部分的权重就足够更新模型适应新的图像概念。 augmentation 他们提出的方法可以分别训练然后合并。&#xA;Technical overview 该方法支持训练多个概念并在新颖的环境中将它们组合起来，同时生成现有概念的新变体。该方法优于几个基准和同时进行的工作，在定性和定量评估中表现出色，同时具有计算和内存效率。&#xA;Proof 结果比较 单概念微调结果比较&#xA;他们的模型可以生成背景和艺术风格。以第一行为例，生成一个水彩风格的在山上的乌龟。他们的模型能产生山的背景，而其它的比如DreamBooth和Textual Inversion则不行，效果较差。&#xA;多概念微调结果比较&#xA;在多概念的情况下，也就是把多个主题融合起来。从上图可以看到，他们的模型有更高的视觉相似度（两个或多个视觉对象在视觉特征上的相似度）。然而DreamBooth有时会忽略掉猫。&#xA;量化比较 上面的结果表明，不管是单概念还是多概念都要优于DreamBooth&#xA;本文提出了一种在新概念、类别、个人对象或艺术风格上微调大规模文本到图像扩散模型的方法，只使用少量图像示例。该方法在新环境中生成微调概念的新变体，保持与目标图像的视觉相似性。它还可以在同一场景中组合多个新概念，并在背景中生成山脉。该方法在每个组合设置的8个提示生成的400个图像上优于其他基准。人类偏好研究表明，所提出的方法在单一概念和多概念方面优于基准。该方法在难以组合的情况下显示出局限性，例如宠物狗和猫，以及组合三个或更多概念。&#xA;Impact 他们提出了种新方法用来微调大规模文生图的扩散模型，只需要几个图片就可以生成新的概念，主题和艺术风格。他们的优点如下：&#xA;高效计算 只需要小部份的权重就可以进行训练 </description>
-    </item>
-    <item>
-      <title>Large Language Models Struggle to Learn Long-Tail Knowledge</title>
-      <link>http://example.org/posts/long-tail/</link>
-      <pubDate>Fri, 22 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>http://example.org/posts/long-tail/</guid>
-      <description>Problem Assumption in prior work Insight Technical overview Proof Impact </description>
     </item>
     <item>
       <title>Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks</title>
@@ -56,13 +28,6 @@
       <pubDate>Wed, 20 Mar 2024 00:00:00 +0000</pubDate>
       <guid>http://example.org/posts/writing-papers/</guid>
       <description>How to Get Started? First, find the nearest paper, then its neighbors. Give them topics to write your liturature review. Find what they have done, and what they didn&amp;rsquo;t.&#xA;How to read a paper Outlining a Paper Your outline should recompress the paper back into an outline format that explains the paper&amp;rsquo;s argument. We suggest the following structure of one paragraph per bullet, with an example outline following the description:</description>
-    </item>
-    <item>
-      <title>Notes of Boosting Monocular Depth Estimation Models to High-Resolution via Content-Adaptive Multi-Resolution Merging</title>
-      <link>http://example.org/posts/depth-estimation/</link>
-      <pubDate>Wed, 20 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>http://example.org/posts/depth-estimation/</guid>
-      <description>研究内容 单个相机拍出来的照片是很难估计它的深度的.目前主要流行用神经网络解决这个问题.但是要得到高清晰度和一个好的场景结构是很难的.目前最好的方法是全卷积架构.但受限于GPU,数据集,CNN接受域的大小.&#xA;他们观察到，随着图片的清析度越高，模型的结构越差，但是细节表现更好。他们的方法是采用一个预训练单深度估计模型实现高分辨率和高精度边缘检测.采用双估计框架合并两个图片可以得到较好的效果.第二个是从图象里面选出块放到模型里面然后再合并.&#xA;研究方法 (b) We first start with feeding the image in low- and high-resolution to the network, here shown results with MiDaS [34], and merge them to get a base estimate with a consistent structure with good boundary localization. (c) We then determine different patches in the image. We show a subset of selected patches with their depth estimates. (d) We merge the patch estimates onto our base estimate from (b) to get our final high-resolution result.</description>
     </item>
     <item>
       <title>Few-Shot Prompting Engeering</title>

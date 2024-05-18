@@ -2,19 +2,22 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://example.org/posts/abstraction/</loc>
-    <lastmod>2024-04-18T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>http://example.org/</loc>
-    <lastmod>2024-04-18T00:00:00+00:00</lastmod>
+    <lastmod>2024-05-03T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://example.org/tags/life/</loc>
-    <lastmod>2024-04-18T00:00:00+00:00</lastmod>
+    <lastmod>2024-05-03T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://example.org/posts/</loc>
-    <lastmod>2024-04-18T00:00:00+00:00</lastmod>
+    <lastmod>2024-05-03T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://example.org/tags/</loc>
+    <lastmod>2024-05-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://example.org/posts/meaningoflife/</loc>
+    <lastmod>2024-05-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://example.org/posts/abstraction/</loc>
     <lastmod>2024-04-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://example.org/tags/tech/</loc>
@@ -29,9 +32,6 @@
     <loc>http://example.org/posts/heart-issues/</loc>
     <lastmod>2024-03-26T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/posts/detectgpt/</loc>
-    <lastmod>2024-03-25T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>http://example.org/posts/document-level-mt/</loc>
     <lastmod>2024-03-25T00:00:00+00:00</lastmod>
   </url><url>
@@ -41,22 +41,10 @@
     <loc>http://example.org/posts/acne-problem/</loc>
     <lastmod>2024-03-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/posts/retrieval-detectors/</loc>
-    <lastmod>2024-03-24T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://example.org/posts/customized-text-imge/</loc>
-    <lastmod>2024-03-23T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://example.org/posts/long-tail/</loc>
-    <lastmod>2024-03-22T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>http://example.org/posts/rag/</loc>
     <lastmod>2024-03-22T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://example.org/posts/writing-papers/</loc>
-    <lastmod>2024-03-20T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://example.org/posts/depth-estimation/</loc>
     <lastmod>2024-03-20T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://example.org/posts/fewshot-prompting/</loc>
@@ -87,6 +75,22 @@
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://example.org/index-about/</loc>
+  </url><url>
+    <loc>http://example.org/posts/be-present/</loc>
+  </url><url>
+    <loc>http://example.org/posts/customized-text-imge/</loc>
+  </url><url>
+    <loc>http://example.org/posts/depth-estimation/</loc>
+  </url><url>
+    <loc>http://example.org/posts/detectgpt/</loc>
+  </url><url>
+    <loc>http://example.org/posts/long-tail/</loc>
+  </url><url>
+    <loc>http://example.org/posts/pigeonhole-principle/</loc>
+  </url><url>
+    <loc>http://example.org/posts/retrieval-detectors/</loc>
+  </url><url>
+    <loc>http://example.org/posts/whats-math/</loc>
   </url><url>
     <loc>http://example.org/posts/%E9%95%BF%E5%87%BA%E6%B5%93%E5%AF%86%E7%9A%84%E5%A5%BD%E5%A4%B4%E5%8F%91/</loc>
   </url><url>

@@ -1,11 +1,3 @@
----
-title: Multi-Concept Customization of Text-to-Image Diffusion
-author: Chunyou Peng
-date: 2024-03-23
-description: Notes on the paper Multi-Concept Customization of Text-to-Image Diffusion written by Kumari
-tags: ["papers"]
-type: "post"
----
 
 # Problem
 

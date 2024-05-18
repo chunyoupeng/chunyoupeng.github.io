@@ -23,6 +23,6 @@ I have developed a mental model for understanding abstraction, as illustrated in
 ![The Abstract Layer](/img/abstract_layer.png ) 
 > The Abstract Layer
 
-The core insight here is that once your foundation and formulas are established, you should focus on the layer directly beneath your current level of work, avoiding any further contemplation of the foundational principles. Accept these truths as given; this acceptance will conserve your time and energy, enabling you to construct more complex and elegant structures based on the previous layers.
+The **core insight** here is that once your foundation and formulas are established, you should focus on the layer directly *beneath* your current level of work, avoiding any further contemplation of the foundational principles. Accept these truths as given; this acceptance will conserve your time and energy, enabling you to construct more complex and elegant structures based on the previous layers.
 
-Remember, the layers of abstraction will continue to expand indefinitely. You will create innovations that rely on the layer immediately beneath them. This approach is not just efficient; it's transformative.
+Remember, the layers of abstraction will continue to expand indefinitely. You will create innovations that rely on the layer immediately beneath them. This approach is not just efficient; it's **transformative**.

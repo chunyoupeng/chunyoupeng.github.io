@@ -1,11 +1,3 @@
----
-title: DetectGPT Zero-Shot Machine-Generated Text Detection using Probability Curvature
-author: Chunyou Peng
-date: 2024-03-25
-description: Notes for the paper DetectGPT Zero-Shot Machine-Generated Text Detection using Probability Curvature
-tags: ["papers"]
-type: "post"
----
 
 # Problem
 
