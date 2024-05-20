@@ -6,7 +6,6 @@ description: my own understanding of mater theorem
 tags: ["math"]
 type: "post"
 ---
-
 # Book Screenshot
 
 ![pic](/img/master-theorem.png ) 

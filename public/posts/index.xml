@@ -6,8 +6,29 @@
     <description>Recent content in Posts on Chunyou Peng Blog</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 03 May 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 12 May 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://example.org/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>当下的力量</title>
+      <link>http://example.org/posts/be-present/</link>
+      <pubDate>Sun, 12 May 2024 00:00:00 +0000</pubDate>
+      <guid>http://example.org/posts/be-present/</guid>
+      <description>当下的力量 关注当下 比如走楼梯，关注每一步，每一个碰撞发出的声音，关注自己的呼吸声。 我们可能会有很多关于过去的想法，因为这是作为自己这个人的认知都在过去，脱离了过去，就失去这个身份认同。因此我们总是会怀念过去。也会去考虑未来，因为未来关系着自己的生存。因些我们的思绪总是在过去和未来杂乱无序的流动着。也造成了自己的一个混乱。但我想说的是，现在的你才是活生生的自己，要更关注当下。把思绪拉回来。&#xA;书中的练习 In your everyday life, you can practice this by taking any routine activity that normally is only a means to an end and giving it your fullest attention, so that it becomes an end in itself. For example, every time you walk up and down the stairs in your house or place of work, pay close attention to every step, every movement, even your breathing. Be totally present.</description>
+    </item>
+    <item>
+      <title>What is Math?</title>
+      <link>http://example.org/posts/whats-math/</link>
+      <pubDate>Sat, 11 May 2024 00:00:00 +0000</pubDate>
+      <guid>http://example.org/posts/whats-math/</guid>
+      <description>What is math? Math runs on definitions.&#xA;Math is a way to research a object&amp;rsquo;s different aspects. For a car, if you want to count the number, it is one. if you want to know how many wheels it has, it is four. So in the same object, you will get different &amp;ldquo;math&amp;rdquo;.&#xA;Definition is to give something a name. it is the first layer of [[https://chunyoupeng.github.io/posts/abstraction/][abstract]]. Once you have the name, you can build things at a higer level.</description>
+    </item>
+    <item>
+      <title>Pigeonhole Principle from Proofs</title>
+      <link>http://example.org/posts/pigeonhole-principle/</link>
+      <pubDate>Fri, 10 May 2024 00:00:00 +0000</pubDate>
+      <guid>http://example.org/posts/pigeonhole-principle/</guid>
+      <description>Pigeonhole Principle from Proofs General Form Consider placing kn + m objects (where 0 &amp;lt; m ≤ n) into n boxes. The Pigeonhole Principle states that at least one box will contain k + 1 objects.&#xA;Explanation Think of the pigeons as individuals and the pigeonholes as distinct properties or labels. By assigning these individuals to specific properties, we can abstractly demonstrate the principle&amp;rsquo;s applicability.</description>
+    </item>
     <item>
       <title>What&#39;s the Meaning of Life(From My Personal Perspective)</title>
       <link>http://example.org/posts/meaningoflife/</link>
@@ -122,13 +143,6 @@
     </item>
     <item>
       <title></title>
-      <link>http://example.org/posts/be-present/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://example.org/posts/be-present/</guid>
-      <description>当下的力量 关注当下 比如走楼梯，关注每一步，每一个碰撞发出的声音，关注自己的呼吸声。 我们可能会有很多关于过去的想法，因为这是作为自己这个人的认知都在过去，脱离了过去，就失去这个身份认同。因此我们总是会怀念过去。也会去考虑未来，因为未来关系着自己的生存。因些我们的思绪总是在过去和未来杂乱无序的流动着。也造成了自己的一个混乱。但我想说的是，现在的你才是活生生的自己，要更关注当下。把思绪拉回来。&#xA;从想法中脱离 我知道有很多想法，这些想法是不可控的，而且是没有意义的。我们要做的就是控制我们的这些想法。&#xA;方法 就是脱离这些想法，从想法的参与者变成观察者。聆听自己的想法，把想法进行归类。比如说你察觉到这个想法是关于X，这个想法是关于Y。&#xA;想像画面 这是关于睡眠的。把一些事情想像成画面。就更容易睡着。</description>
-    </item>
-    <item>
-      <title></title>
       <link>http://example.org/posts/customized-text-imge/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://example.org/posts/customized-text-imge/</guid>
@@ -157,24 +171,10 @@
     </item>
     <item>
       <title></title>
-      <link>http://example.org/posts/pigeonhole-principle/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://example.org/posts/pigeonhole-principle/</guid>
-      <description>Pigeonhole Principle from Proofs General Form Consider placing kn + m objects (where 0 &amp;lt; m ≤ n) into n boxes. The Pigeonhole Principle states that at least one box will contain k + 1 objects.&#xA;Explanation Think of the pigeons as individuals and the pigeonholes as distinct properties or labels. By assigning these individuals to specific properties, we can abstractly demonstrate the principle&amp;rsquo;s applicability.</description>
-    </item>
-    <item>
-      <title></title>
       <link>http://example.org/posts/retrieval-detectors/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://example.org/posts/retrieval-detectors/</guid>
       <description>Problem Assumption in prior work Insight Technical overview Proof Impact </description>
-    </item>
-    <item>
-      <title></title>
-      <link>http://example.org/posts/whats-math/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://example.org/posts/whats-math/</guid>
-      <description>What is math? Math runs on definitions.&#xA;Math is a way to research a object&amp;rsquo;s different aspects. For a car, if you want to count the number, it is one. if you want to know how many wheels it has, it is four. So in the same object, you will get different &amp;ldquo;math&amp;rdquo;.&#xA;Definition is to give something a name. it is the first layer of [[https://chunyoupeng.github.io/posts/abstraction/][abstract]]. Once you have the name, you can build things at a higer level.</description>
     </item>
     <item>
       <title></title>

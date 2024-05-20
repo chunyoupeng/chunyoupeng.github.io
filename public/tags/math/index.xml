@@ -6,8 +6,22 @@
     <description>Recent content in Math on Chunyou Peng Blog</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 06 Apr 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 11 May 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://example.org/tags/math/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>What is Math?</title>
+      <link>http://example.org/posts/whats-math/</link>
+      <pubDate>Sat, 11 May 2024 00:00:00 +0000</pubDate>
+      <guid>http://example.org/posts/whats-math/</guid>
+      <description>What is math? Math runs on definitions.&#xA;Math is a way to research a object&amp;rsquo;s different aspects. For a car, if you want to count the number, it is one. if you want to know how many wheels it has, it is four. So in the same object, you will get different &amp;ldquo;math&amp;rdquo;.&#xA;Definition is to give something a name. it is the first layer of [[https://chunyoupeng.github.io/posts/abstraction/][abstract]]. Once you have the name, you can build things at a higer level.</description>
+    </item>
+    <item>
+      <title>Pigeonhole Principle from Proofs</title>
+      <link>http://example.org/posts/pigeonhole-principle/</link>
+      <pubDate>Fri, 10 May 2024 00:00:00 +0000</pubDate>
+      <guid>http://example.org/posts/pigeonhole-principle/</guid>
+      <description>Pigeonhole Principle from Proofs General Form Consider placing kn + m objects (where 0 &amp;lt; m ≤ n) into n boxes. The Pigeonhole Principle states that at least one box will contain k + 1 objects.&#xA;Explanation Think of the pigeons as individuals and the pigeonholes as distinct properties or labels. By assigning these individuals to specific properties, we can abstractly demonstrate the principle&amp;rsquo;s applicability.</description>
+    </item>
     <item>
       <title>My Master Theorem Understanding</title>
       <link>http://example.org/posts/master-theorem/</link>

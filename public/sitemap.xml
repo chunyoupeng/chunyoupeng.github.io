@@ -3,16 +3,28 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://example.org/</loc>
-    <lastmod>2024-05-03T00:00:00+00:00</lastmod>
+    <lastmod>2024-05-12T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://example.org/tags/life/</loc>
-    <lastmod>2024-05-03T00:00:00+00:00</lastmod>
+    <lastmod>2024-05-12T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://example.org/posts/</loc>
-    <lastmod>2024-05-03T00:00:00+00:00</lastmod>
+    <lastmod>2024-05-12T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://example.org/tags/</loc>
-    <lastmod>2024-05-03T00:00:00+00:00</lastmod>
+    <lastmod>2024-05-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://example.org/posts/be-present/</loc>
+    <lastmod>2024-05-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://example.org/tags/math/</loc>
+    <lastmod>2024-05-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://example.org/posts/whats-math/</loc>
+    <lastmod>2024-05-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://example.org/posts/pigeonhole-principle/</loc>
+    <lastmod>2024-05-10T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://example.org/posts/meaningoflife/</loc>
     <lastmod>2024-05-03T00:00:00+00:00</lastmod>
@@ -22,9 +34,6 @@
   </url><url>
     <loc>http://example.org/tags/tech/</loc>
     <lastmod>2024-04-18T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://example.org/tags/math/</loc>
-    <lastmod>2024-04-06T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://example.org/posts/master-theorem/</loc>
     <lastmod>2024-04-06T00:00:00+00:00</lastmod>
@@ -76,8 +85,6 @@
   </url><url>
     <loc>http://example.org/index-about/</loc>
   </url><url>
-    <loc>http://example.org/posts/be-present/</loc>
-  </url><url>
     <loc>http://example.org/posts/customized-text-imge/</loc>
   </url><url>
     <loc>http://example.org/posts/depth-estimation/</loc>
@@ -86,11 +93,7 @@
   </url><url>
     <loc>http://example.org/posts/long-tail/</loc>
   </url><url>
-    <loc>http://example.org/posts/pigeonhole-principle/</loc>
-  </url><url>
     <loc>http://example.org/posts/retrieval-detectors/</loc>
-  </url><url>
-    <loc>http://example.org/posts/whats-math/</loc>
   </url><url>
     <loc>http://example.org/posts/%E9%95%BF%E5%87%BA%E6%B5%93%E5%AF%86%E7%9A%84%E5%A5%BD%E5%A4%B4%E5%8F%91/</loc>
   </url><url>

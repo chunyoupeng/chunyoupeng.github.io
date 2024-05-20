@@ -1,3 +1,12 @@
+---
+title: Pigeonhole Principle from Proofs
+author: Chris Peng
+date: 2024-05-10
+description: my insights from the book Proofs
+tags: ["math"]
+type: "post"
+---
+
 # Pigeonhole Principle from Proofs
 
 ## General Form

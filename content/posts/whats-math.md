@@ -1,3 +1,13 @@
+---
+title: What is Math?
+author: Chris Peng
+date: 2024-05-11
+description: My insight for math
+tags: ["math"]
+type: "post"
+---
+
+
 # What is math?
 
 > Math runs on definitions.
